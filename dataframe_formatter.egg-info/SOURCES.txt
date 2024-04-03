@@ -1,0 +1,7 @@
+README.md
+setup.py
+dataframe_formatter.egg-info/PKG-INFO
+dataframe_formatter.egg-info/SOURCES.txt
+dataframe_formatter.egg-info/dependency_links.txt
+dataframe_formatter.egg-info/requires.txt
+dataframe_formatter.egg-info/top_level.txt
